@@ -1,6 +1,5 @@
 # mobilio
 
-Mobilio
 Mobilio is a Flutter application designed to control a car robot using ROS2 and ROS Bridge. The app allows users to operate the robot via a joystick interface by sending cmd_vel values to control its movement. To establish a connection, both the mobile device and the robot must be on the same network, and the ROS Bridge server package for ROS2 must be installed and running on the network.
 
 ## Getting Started
